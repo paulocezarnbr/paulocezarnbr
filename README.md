@@ -1,5 +1,7 @@
-### Scripting...💻
-### TikTok is paulocezarnbr =)
+### Hi there! 👋 My name is Paulo and I love coding (especially on roblox) Im from Brazil
+  
+ ![Paulocezarnbr's github stats](https://github-readme-stats.vercel.app/api?username=paulocezarnbr&count_private=true&include_all_commits=true&show_icons=true&theme=merko) 
+ 
 <!--
 **paulocezarnbr/paulocezarnbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
