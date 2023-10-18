@@ -1,5 +1,5 @@
-### Hi there! 👋 My name is Paulo and I love coding (especially on roblox) Im from Brazil
-  
+###  
+
  ![Paulocezarnbr's github stats](https://github-readme-stats.vercel.app/api?username=paulocezarnbr&count_private=true&include_all_commits=true&show_icons=true&theme=merko) 
  
 <!--
